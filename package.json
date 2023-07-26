@@ -1,6 +1,6 @@
 {
   "private": true,
   "dependencies": {
-    "@lydell/elm-json": "0.2.13-0"
+    "@lydell/elm-json": "0.2.13-1"
   }
 }
