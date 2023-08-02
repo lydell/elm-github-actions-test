@@ -1,6 +1,10 @@
 {
   "private": true,
+  "scripts": {
+    "test": "elm-format --help",
+    "build": "echo build"
+  },
   "dependencies": {
-    "@lydell/elm": "0.19.1-9"
+    "elm-format": "0.8.7"
   }
 }
