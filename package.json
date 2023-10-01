@@ -1,6 +1,7 @@
 {
   "private": true,
   "devDependencies": {
+    "@lydell/elm": "0.19.1-13",
     "elm-land": "0.19.3"
   }
 }

@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 devDependencies:
+  '@lydell/elm':
+    specifier: 0.19.1-13
+    version: 0.19.1-13
   elm-land:
     specifier: 0.19.3
     version: 0.19.3
